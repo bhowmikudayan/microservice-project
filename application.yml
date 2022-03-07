@@ -14,4 +14,4 @@ management:
       exposure:
         include: '*'
         
-com.mpk.custom.prop1: 'Hello World!'
+com.good.custom.prop1: 'Hello World!'
